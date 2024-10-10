@@ -36,5 +36,5 @@ Scripts and tools aimed at encryption, decryption, and penetration testing.
 Python-based projects, web scraping tools, and articles about networking, offensive security, and ethical hacking.
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
