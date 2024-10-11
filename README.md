@@ -35,7 +35,4 @@ Scripts and tools aimed at encryption, decryption, and penetration testing.
 ## Learning Resources: 
 Python-based projects, web scraping tools, and articles about networking, offensive security, and ethical hacking.
 
-# Latest Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
