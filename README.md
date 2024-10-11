@@ -1,12 +1,12 @@
 
 ![logo](https://i.pinimg.com/originals/d1/99/85/d19985b7a77bd7824730536b2d2f57bd.jpg)
 
-# Hi I'm Mr.Robot 👋
+# Hi I'm Muhammad Sohail 👋
 
 <img src="me.gif" align="right" height='200' width='300' />
 
 
-- 🔭 I’m currently working on **Malwares**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Offensive Security**
 
@@ -22,7 +22,7 @@
 
 
 
-I'm Mr.Robot, a passionate cybersecurity enthusiast and ethical hacker with a strong focus on red teaming and offensive security. I love diving deep into Capture the Flag (CTF) challenges, creating advanced scripts, and exploring vulnerabilities. Currently pursuing a degree in Computer Science, I share my journey and knowledge through technical write-ups and blog posts on Medium.
+I'm Muhammad Sohail, a passionate cybersecurity enthusiast and ethical hacker with a strong focus on red teaming and offensive security. I love diving deep into Capture the Flag (CTF) challenges, creating advanced scripts, and exploring vulnerabilities. Currently pursuing a degree in Computer Science, I share my journey and knowledge through technical write-ups and blog posts on Medium.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/sohailburki1.png" alt="TryHackMe Account" />
 
