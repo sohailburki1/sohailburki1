@@ -1,7 +1,7 @@
 
 ![logo](https://i.pinimg.com/originals/d1/99/85/d19985b7a77bd7824730536b2d2f57bd.jpg)
 
-# Hi I'm Muhammad Sohail 👋
+# Hi I'm Mr.Robot 👋
 
 <img src="me.gif" align="right" height='200' width='300' />
 
