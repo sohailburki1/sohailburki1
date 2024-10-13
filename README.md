@@ -24,8 +24,6 @@
 
 I'm Muhammad Sohail, a passionate cybersecurity enthusiast and ethical hacker with a strong focus on red teaming and offensive security. I love diving deep into Capture the Flag (CTF) challenges, creating advanced scripts, and exploring vulnerabilities. Currently pursuing a degree in Computer Science, I share my journey and knowledge through technical write-ups and blog posts on Medium.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/sohailburki1.png" alt="TryHackMe Account" />
-
 # What You'll Find Here:
 
 ## CTF Write-ups: 
