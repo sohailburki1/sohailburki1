@@ -30,8 +30,8 @@ Mr.Robot’s primary focus lies in creating and understanding offensive tools to
 
 | Name | Description | Technologies |  
 | --- | --- | --- |  
-| **[Shadowflux Ransomware](https://github.com/Mr.Robot/shadowflux)** | A ransomware disguised as an image file. Encrypts files when clicked. | Python |  
-| **[StealthDoor Backdoor](https://github.com/Mr.Robot/stealthdoor)** | A backdoor disguised as an image that provides a reverse shell upon execution. | Python |  
+| **[Shadowflux Ransomware](https://www.linkedin.com/in/muhammad-sohail-3b36bb327/details/projects/)** | A ransomware disguised as an image file. Encrypts files when clicked. | Python |  
+| **[StealthDoor Backdoor](https://www.linkedin.com/in/muhammad-sohail-3b36bb327/details/projects/)** | A backdoor disguised as an image that provides a reverse shell upon execution. | Python |  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
