@@ -5,11 +5,15 @@
 <img src="me.gif" align="right" height='250' width='350' />
 
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **Malware Development**
 
-- 🌱 I’m currently learning **Offensive Security**
+- 🌱 I’m currently learning **Penetration Testing, Offensive Secuirty**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@mr.robot.meaw)
+- 👯 I’m looking to collaborate on **Malware Development**
+
+- 🤝 I’m looking for help with **Bypassing Firewalls**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@sohailburki1)
 
 - 💬 Ask me about **python, hacking**
 
