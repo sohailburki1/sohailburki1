@@ -2,7 +2,7 @@
 
 # 👋 Hi I'm Mr.Robot 
 
-<img src="me.gif" align="right" height='200' width='300' />
+<img src="me.gif" align="right" height='300' width='400' />
 
 
 - 🔭 I’m currently working on **Myself**
