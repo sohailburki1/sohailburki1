@@ -17,8 +17,6 @@
 
 # 👤 About Me
 
-<img src="who.png.jpg" align="center" />
-
 Mr.Robot is a skilled cybersecurity researcher and red teamer, specializing in offensive security and malware development. With a deep interest in ethical hacking, he has developed a range of sophisticated projects that reflect his expertise in crafting stealthy attack vectors and leveraging advanced exploitation techniques. Known in the cybersecurity community by his alias, Mr. Robot, Muhammad actively participates in Capture The Flag (CTF) competitions on platforms like TryHackMe, Hack The Box, and CyberTalents, where he sharpens his penetration testing skills.
 
 Mr.Robot’s primary focus lies in creating and understanding offensive tools to simulate real-world cyber threats, helping organizations recognize and defend against advanced persistent threats (APTs). Two of his standout projects include Shadowflux, a ransomware disguised as an image file, and StealthDoor, a reverse shell backdoor also masquerading as an innocent image. These projects showcase his ability to integrate malicious payloads with everyday file formats, making detection difficult and emulating the tactics used by modern threat actors.
