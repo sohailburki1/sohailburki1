@@ -2,7 +2,7 @@
 
 # 👋 Hi I'm Mr.Robot 
 
-<img src="me.gif" align="right" height='250' width='350' />
+<img src="me.gif" align="right" height='300' width='400' />
 
 
 - 🔭 I’m currently working on **Malware Development**
