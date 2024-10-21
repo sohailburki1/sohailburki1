@@ -36,21 +36,21 @@ Mr.Robot’s primary focus lies in creating and understanding offensive tools to
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### What You'll Find Here:
+# What You'll Find Here:
 
-#### **CTF Write-ups:**
-Dive into an extensive archive of **Capture The Flag (CTF)** write-ups, showcasing detailed solutions for various challenges from popular platforms such as **TryHackMe**, **Hack The Box**, and **CyberTalents**. 
+## CTF Write-ups:
+Dive into an extensive archive of **Capture The Flag (CTF)** write-ups, showcasing detailed solutions for various challenges from popular platforms such as **TryHackMe**, **Hack The Box**, and **CyberTalents**.
 
-- **Challenge Breakdown**: Each write-up begins with a brief overview of the challenge, including its difficulty level and the concepts it tests. 
-- **Step-by-Step Solutions**: Follow along with a thorough walkthrough of the problem-solving process. Solutions are segmented into clear steps, making it easy to grasp complex ideas. 
-- **Tools and Techniques**: Learn about the tools utilized for each challenge, such as Metasploit for exploitation, Wireshark for network analysis, or Burp Suite for web vulnerabilities. 
+- **Challenge Breakdown**: Each write-up begins with a brief overview of the challenge, including its difficulty level and the concepts it tests.
+- **Step-by-Step Solutions**: Follow along with a thorough walkthrough of the problem-solving process. Solutions are segmented into clear steps, making it easy to grasp complex ideas.
+- **Tools and Techniques**: Learn about the tools utilized for each challenge, such as Metasploit for exploitation, Wireshark for network analysis, or Burp Suite for web vulnerabilities.
 - **Code Snippets**: Access relevant code snippets that illustrate how specific tools or scripts were used in the challenge, complete with explanations of each component.
 - **Lessons Learned**: Gain insights into what each challenge teaches about real-world security issues, enabling you to apply this knowledge in practical scenarios.
 
 Whether you're a novice just starting out or a seasoned expert looking to refine your skills, these write-ups serve as valuable resources for both learning and practice.
 
-#### **Cybersecurity Projects:**
-Explore a diverse array of **cybersecurity projects** that emphasize practical skills in encryption, decryption, and penetration testing. 
+## Cybersecurity Projects:
+Explore a diverse array of **cybersecurity projects** that emphasize practical skills in encryption, decryption, and penetration testing.
 
 - **Encryption and Decryption Tools**:
   - **Symmetric and Asymmetric Encryption**: Projects showcasing different algorithms like AES, RSA, and Blowfish, complete with implementation details and use cases.
@@ -64,7 +64,7 @@ Explore a diverse array of **cybersecurity projects** that emphasize practical s
 
 Each project is thoroughly documented with clear instructions for setup, usage, and customization, enabling both beginners and advanced users to benefit.
 
-#### **Learning Resources:**
+## Learning Resources:
 A treasure trove of educational content aimed at enhancing your skills in cybersecurity and programming.
 
 - **Python-Based Projects**:
